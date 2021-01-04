@@ -1,0 +1,41 @@
+.historia {
+  background-color: #ecf2ff;
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+.historia2 {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  font-size: 50px;
+  font-weight: 800;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial;
+  color: #27267e;
+}
+
+.historia3 {
+  flex-direction: column;
+  display: flex;
+  font-size: 20px;
+  align-items: centerW;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+  justify-content: center;
+  width: 90%;
+  background-image: url("./img/criptomoedas.png");
+  background-position: center right, center center;
+  color: #27267e;
+}
+
+.texto1 {
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
